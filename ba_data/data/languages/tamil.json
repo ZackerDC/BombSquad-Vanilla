@@ -1304,7 +1304,7 @@
     "iconsText": "சின்னங்கள்",
     "loadErrorText": "பக்கத்தை ஏற்ற முடியவில்லை.\nஉங்கள் இணைய இணைப்பைச் சரிபார்க்கவும்.",
     "loadingText": "ஏற்றுகிறது",
-    "mapsText": "Maps",
+    "mapsText": "வரைபடங்கள்",
     "miniGamesText": "மினிகேம்ஸ்",
     "oneTimeOnlyText": "(ஒரு முறை மட்டும்)",
     "purchaseAlreadyInProgressText": "இந்த பொருளை வாங்குவது ஏற்கனவே நடந்து கொண்டிருக்கிறது.",
@@ -1361,11 +1361,11 @@
   "tournamentStandingsText": "போட்டி நிலைகள்",
   "tournamentText": "போட்டி",
   "tournamentTimeExpiredText": "போட்டி நேரம் காலாவதியானது",
-  "tournamentsText": "Tournaments",
+  "tournamentsText": "போட்டிகள்",
   "translations": {
     "characterNames": {
       "Agent Johnson": "ஏஜெண்ட் ஜான்சன்",
-      "B-9000": "B-9000",
+      "B-9000": "பி-9000",
       "Bernard": "பர்னார்ட்",
       "Bones": "போன்ஸ்",
       "Butch": "பட்ச்",
